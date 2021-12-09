@@ -45,6 +45,8 @@
 #### ВСР
 
 1. Подготовка презентации по контролю и самоконтролю в ЭИОС
+   
+   [Решение](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme03/VSR/VSR3.md)
 
 ### Тема 4
 

@@ -40,9 +40,9 @@
 
 #### ВСР
 
-3. Разработка фрагмента ЭУК на платформе Canvas.
-   
-   [Решение](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme02/VSR/%D0%A2%D1%80%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%92%D0%A1%D0%A02.png)
+3. Разработка фрагмента ЭУК на платформе Canvas
+
+    [Решение](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme02/VSR/VSR2.md)
 
 ### Тема 3
 

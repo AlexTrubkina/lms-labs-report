@@ -27,9 +27,16 @@
 #### ИСР
 
 1. Развёртывание системы управления обучением.
-2. Создание скринкаста по развёртыванию системы управления обучением.
-3. Проектирование сценария ЭУК и разработка его компонента.
+   
+   [Решение](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme02/ISR/ISR2.md)
+   
+3. Создание скринкаста по развёртыванию системы управления обучением.
 
+   [Решение](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme02/ISR/ISR2.md)
+
+5. Проектирование сценария ЭУК и разработка его компонента.
+   
+   [Решение](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme02/ISR/ISR2.md)
 
 #### ВСР
 

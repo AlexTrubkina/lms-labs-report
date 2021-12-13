@@ -17,6 +17,8 @@
 #### ВСР
 
 1.  Оценка качества ЭУК и самооценка созданных ЭОР.
+    
+    [Решение](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme01/VSR/VSR1.md)
 
 ### Тема 2
 

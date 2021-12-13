@@ -8,7 +8,9 @@
 
 1. Разработка карты знания и облака тегов по теме ВКР для включения в ЭУК.
    
-   [Решение](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme01/ISR/%D0%A2%D1%80%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%98%D0%A1%D0%A01(1).png)
+   [Карта знаний](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme01/ISR/%D0%A2%D1%80%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%98%D0%A1%D0%A01(1).png)
+   
+   [Облако тегов](https://github.com/AlexTrubkina/lms-labs-report/blob/main/theme01/ISR/%D0%A2%D1%80%D1%83%D0%B1%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%98%D0%A1%D0%A01(12).png)
    
 2. Проектирование и проведение вебинара по теме ВКР с использованием инструментов мобильного ЭО.
  
